@@ -1,0 +1,16 @@
+{
+  "name": "iojsbabel",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "~5.4.7",
+    "sugar": "~1.4.1",
+    "react": "~0.13.3"
+  }
+}
